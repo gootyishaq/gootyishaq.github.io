@@ -308,13 +308,13 @@ span.border.one:after {
 	/*display:inline-block;*/
 	margin-bottom:15px;
 	text-align:justify;
-	font-size:110%;
+	font-size:120%;
 }
 .about-left-grid ul li:nth-child(1){
 	margin-right: 0.2em;
 }
 .about-left {
-    /*padding: 4.5em 0 4.7em 0;*/
+    padding: 4.5em 0 4.7em 0;
     float: right;
     background: #f4f4f4;
 }
